@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías usadas 👨🏻‍💻</h2>
 
 <!--tech stack icons-->
 
