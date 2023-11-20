@@ -1,6 +1,5 @@
 
-<h1 align="center"><b>Hola , Soy Bredalis Guerrero</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Bredalis Guerrero <img src="https://github.com/unsimpledev/#hola---soy-orlando--unsimpledev--:~:text=soy%20Orlando%20/%20unsimpleDev-,%E2%9C%A8,-Sobre%20mi%20%F0%9F%98%83"></b></h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
