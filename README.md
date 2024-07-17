@@ -103,5 +103,7 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 <a href="bredalisgautreaux@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-ECF0F1">
 </a>
-
+<a href="https://es.stackoverflow.com/users/293358/bredalis-gautreaux" target="_blank">
+  <img src="https://img.shields.io/badge/Stack OverFlow-F4D03F">
+</a>
 
