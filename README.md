@@ -3,7 +3,7 @@
 # Bredalis Gautreaux <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> <br> Y quiero revolucionar el mundo de la IA.
 
 <br>
-<img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" align="center">
+<img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4">
 
 [![Github](https://img.shields.io/github/followers/bredalis?label=Follow&style=social)](https://github.com/bredalis)
 
