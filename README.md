@@ -7,7 +7,7 @@
 
 [![Github](https://img.shields.io/github/followers/bredalis?label=Follow&style=social)](https://github.com/bredalis)
 
-Hola! mi nombre es Bredalis y me encanta programar, pero con más énfasis en la Inteligencia Artificial y la AGI, tengo la meta de lograr ser parte de ese equipo que trabaja día y noche para crear la futura gran AGI 😊. A parte de la programación, me gusta la música, la psicología y las ciencias como algunos científicos populares, ya sean Albert Einstein, Alan Turing y muchos más. <br><br> Estoy programando hace ya 3 años 👩🏻‍💻 y actualmente estoy estudiando 📖 en el técnico de Informática del liceo Sergio Augusto Beras en mi país.
+Hola! mi nombre es Bredalis y me encanta programar, pero con más énfasis en la Inteligencia Artificial y la AGI, tengo la meta de lograr ser parte de ese equipo que trabaja día y noche para crear la futura gran AGI 😊. A parte de la programación, me gusta la música, la psicología y las ciencias como algunos científicos populares, ya sean Albert Einstein, Alan Turing y muchos más. <br><br> Estoy programando hace ya 3 años 👩🏻‍💻 y actualmente estoy estudiando 📖 en el técnico de Informática del liceo Sergio Augusto Beras en mi país República Dominicana.
 
 Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún no me especializo, pero ando aprendiendo varias áreas de la programación como Desarrollo Web, Gestión de Base De Datos, Desarrollo Movíl, entre otras, para que sean un plus a la hora de aprender NLP, esa es la área en la que en un futuro no muy lejano me pienso especializar 😊.
 
