@@ -50,16 +50,17 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 
 🎮 Este es el juego de la serpiente con PyGame - Python.
 
-## MusicGenerator 🎶
+## InformatikSpace 👩🏻‍💻
 
-<a href="https://github.com/Bredalis/MusicGenerator" target="_blank">
-  <img src="https://i.pinimg.com/236x/44/04/ee/4404eea09ff455a27a222895024ff35b.jpg">
+<a href="https://github.com/Bredalis/InformatikSpace" target="_blank">
+  <img src="https://i.pinimg.com/236x/7c/1b/4a/7c1b4a23ecaa28306de73e12c4b249e9.jpg">
 </a>
 
-[![MusicGenerator](https://img.shields.io/github/stars/bredalis/MusicGenerator?label=MusicGenerator&style=social)](https://github.com/bredalis/MusicGenerator)
+[![InformatikSpace](https://img.shields.io/github/stars/bredalis/InformatikSpace?label=InformatikSpace&style=social)](https://github.com/bredalis/InformatikSpace)
 <br><br>
 
-🔊 Es una página web donde puedes generar sonidos musicales con los que ya estan en esta.
+🙋🏻‍♂️ Es una plataforma dedicada a todas las personas, pero especialmente para aquellos amantes de la informática y el mundo de las computadoras 🖥 que quieran publicar artículos sobre este maravilloso sector. 
+Link: 🔗 https://informatikspace.onrender.com
 
 ## PageTeleCare 👩🏻‍⚕️
 
