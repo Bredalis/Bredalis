@@ -60,7 +60,6 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 <br><br>
 
 🙋🏻‍♂️ Es una plataforma dedicada a todas las personas, pero especialmente para aquellos amantes de la informática y el mundo de las computadoras 🖥 que quieran publicar artículos sobre este maravilloso sector. 
-Link: 🔗 https://informatikspace.onrender.com
 
 ## PageTeleCare 👩🏻‍⚕️
 
