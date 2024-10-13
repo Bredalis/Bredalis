@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://profile-counter.glitch.me/{Bredalis}/count.svg" alt="Bredalis :: Visitor's Count" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hola,+mi+nombre+es;Y+quiero+revolucionar" width="auto" height="35"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Bredalis+Gautreaux;el+mundo+de+la+IA." width="auto" height="35"/>
 <hr>
@@ -8,6 +11,7 @@
   <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4">  
 </p>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=Bredalis&&style=flat-square) 
 [![Github](https://img.shields.io/github/followers/bredalis?label=Follow&style=social)](https://github.com/bredalis)
 
 Hola! mi nombre es Bredalis y me encanta programar, pero con más énfasis en la Inteligencia Artificial y la AGI, tengo la meta de lograr ser parte de ese equipo que trabaja día y noche para crear la futura gran AGI 😊. A parte de la programación, me gusta la música, la psicología y las ciencias como algunos científicos populares, ya sean Albert Einstein, Alan Turing y muchos más. <br><br> Estoy programando hace ya 3 años 👩🏻‍💻 y actualmente estoy estudiando 📖 en el técnico de Informática del liceo Sergio Augusto Beras en mi país República Dominicana.
@@ -81,10 +85,128 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 
 ### Tecnologías que domino:
 
-- ✔ Lenguajes: <img src="https://img.shields.io/badge/Python-27AE60"> <img src="https://img.shields.io/badge/HTML-E74C3C"> <img src="https://img.shields.io/badge/CSS-2E86C1"> <img src="https://img.shields.io/badge/JS-F4D03F">
-- ✔ Frameworks y Librerías: <img src="https://img.shields.io/badge/Tkinter-ECF0F1"> <img src="https://img.shields.io/badge/OS-E67E22"> <img src="https://img.shields.io/badge/Numpy-2471A3"> <img src="https://img.shields.io/badge/Pandas-ECF0F1"> <img src="https://img.shields.io/badge/Matplotlib-E74C3C"> 
-- ✔ Bases de Datos: <img src="https://img.shields.io/badge/SQLite-7FB3D5"> <img src="https://img.shields.io/badge/MySQL-D4E6F1"> <img src="https://img.shields.io/badge/MongoDB-27AE60">
-- ✔ Herramientas de Control: <img src="https://img.shields.io/badge/Git-D35400"> <img src="https://img.shields.io/badge/GitHub-34495E">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/sqlite-plain.svg" alt="SQLite" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>RestFul
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>SQLAlchemy
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>Scikit-Learn
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kivy
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Matplotlib
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>Numpy
+    </td>
+  </tr>
+ <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Sublime Text
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>Vim
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>Tkinter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>PyTest
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>Flask
+    </td>
+ </tr>
+</table>
+  
+<br>
+</div>
 
 ### Habilidades blandas:
 
@@ -113,6 +235,10 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 </a>
 
 <br><br><br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
@@ -124,5 +250,5 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<br>
+<br> 
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
