@@ -1,8 +1,9 @@
 
-### <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" width="50" height="50"> Hola, mi nombre es 
-# Bredalis Gautreaux <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> <br> Y quiero revolucionar el mundo de la IA.
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hola,+mi+nombre+es;Y+quiero+revolucionar" width="auto" height="35"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Bredalis+Gautreaux;el+mundo+de+la+IA." width="auto" height="35"/>
+<hr>
 
 <br>
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4">  
 </p>
@@ -99,16 +100,16 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 # Contácteme <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 
 <a href="https://twitter.com/bredalis_P" target="_blank">
-  <img src="https://img.shields.io/badge/X-2C3E50">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/bredalis-gautreaux/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-3498DB">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 <a href="bredalisgautreaux@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-ECF0F1">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 <a href="https://es.stackoverflow.com/users/293358/bredalis-gautreaux" target="_blank">
-  <img src="https://img.shields.io/badge/Stack OverFlow-F4D03F">
+  <img src="https://img.shields.io/badge/-Stack%20OverFlow-ff5733?style=flat-square&logo=Stack%20OverFlow&logoColor=white">
 </a>
 
 <br><br><br>
@@ -122,3 +123,6 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<br>
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
