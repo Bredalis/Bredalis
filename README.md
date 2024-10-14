@@ -89,7 +89,7 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/sqlite-plain.svg" alt="SQLite" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="65" />
       <br>SQLite
     </td>
     <td align="center" width="96">
@@ -119,7 +119,7 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>Seaborn
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="icon" width="65" height="65" />
       <br>TensorFlow
     </td>
     <td align="center" width="96">
@@ -191,15 +191,15 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>PyTest
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
  </tr>
@@ -212,10 +212,10 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="55%" align="right" alt="Github"/>
 
-- ✔ Liderazgo
-- ✔ Inteligencia Emocional
-- ✔ Adaptabilidad
-- ✔ Trabajo en Equipo
+- ✔ <img src="https://img.shields.io/badge/Liderazgo-f1948a">  
+- ✔ <img src="https://img.shields.io/badge/Inteligencia Emocional-5dade2">
+- ✔ <img src="https://img.shields.io/badge/Adaptabilidad-58d68d">
+- ✔ <img src="https://img.shields.io/badge/Trabajo en Equipo-e59866">
 
 <br>
 
