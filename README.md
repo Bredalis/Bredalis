@@ -103,11 +103,11 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.shields.io/badge/RestFul-e59866">
       <br>RestFul
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-34495e">
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
@@ -115,7 +115,7 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.shields.io/badge/Seaborn-d6eaf8">
       <br>Seaborn
     </td>
     <td align="center" width="96">
@@ -123,13 +123,13 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.shields.io/badge/Scikit-Learn-e67e22">
       <br>Scikit-Learn
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.shields.io/badge/Kivy-bb8fce">
       <br>Kivy
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -140,7 +140,7 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Matplotlib-7fb3d5">
       <br>Matplotlib
     </td>
     <td align="center"  width="96">
@@ -156,11 +156,11 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://img.shields.io/badge/Pandas-f0f3f4">
       <br>Pandas
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://img.shields.io/badge/Numpy-3498db">
       <br>Numpy
     </td>
   </tr>
@@ -170,12 +170,12 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://img.shields.io/badge/Sublime Text-7e5109">
       <br>Sublime Text
       </td>
       </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <img src="https://img.shields.io/badge/Vim-52be80">
       <br>Vim
     </td>
     <td align="center" width="96">
@@ -183,11 +183,11 @@ Soy simplemente una chica a la cual le gusta programar, ¡es fascinante!, aún n
       <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Tkinter-f4d03f">
       <br>Tkinter
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://img.shields.io/badge/PyTest-e74c3c">
       <br>PyTest
     </td>
     <td align="center" width="96">
